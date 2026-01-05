@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Suivi Bébé</string>
+
+    <string name="nav_dashboard">Accueil</string>
+    <string name="nav_growth">Croissance</string>
+    <string name="nav_guide">Guide Santé</string>
+
+    <!-- Profile Screen -->
+    <string name="setup_profile_title">Profil du Bébé</string>
+    <string name="label_baby_name">Nom du bébé</string>
+    <string name="label_birth_weight">Poids de naissance (ex: 3.5kg)</string>
+    <string name="gender_boy">Garçon</string>
+    <string name="gender_girl">Fille</string>
+    <string name="btn_start_tracking">Commencer</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Suivez Tout</string>
+    <string name="onboarding_desc_1">Enregistrez les repas, le sommeil, les couches et la croissance en un clic.</string>
+    <string name="onboarding_title_2">Visualisez la Croissance</string>
+    <string name="onboarding_desc_2">Suivez les progrès de bébé avec des graphiques clairs et précis.</string>
+    <string name="onboarding_title_3">Synchro Parents</string>
+    <string name="onboarding_desc_3">Maman et Papa restent connectés grâce à la synchronisation cloud.</string>
+    <string name="btn_next">Suivant</string>
+    <string name="btn_get_started">Commencer</string>
+
+    <!-- Auth Screen -->
+    <string name="auth_welcome">Bonjour !</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Mot de passe</string>
+    <string name="btn_signin">Se connecter</string>
+    <string name="btn_signup">S\'inscrire</string>
+    <string name="text_or"> OU </string>
+    <string name="btn_google">Continuer avec Google</string>
+    <string name="btn_guest">Continuer en Invité</string>
+    <string name="toast_google_fail">Échec Google Sign-In : %1$s</string>
+    <string name="toast_signin_success">Connexion réussie !</string>
+
+    <!-- Dashboard -->
+    <string name="greeting">Bonjour,</string>
+    <string name="charts_btn">Graphiques</string>
+    <string name="last_feed">Dernier repas</string>
+    <string name="last_sleep">Dernier dodo</string>
+    <string name="diapers">Couches</string>
+    <string name="diapers_today">%1$d aujourd\'hui</string>
+    <string name="recent_activity">Activité récente</string>
+    <string name="empty_state">Aucune activité aujourd\'hui</string>
+
+    <!-- Log Types -->
+    <string name="log_feeding">Repas</string>
+    <string name="log_sleep">Sommeil</string>
+    <string name="log_diaper">Couche</string>
+    <string name="log_growth">Croissance</string>
+
+    <!-- Input Dialogs & Bottom Sheet -->
+    <string name="new_activity">Nouvelle activité</string>
+    <string name="manual_entry">Saisie manuelle</string>
+    <string name="save_feeding">Enreg. Repas</string>
+    <string name="save_sleep">Enreg. Sommeil</string>
+    <string name="save_entry">Enregistrer</string>
+    <string name="cancel">Annuler</string>
+    <string name="enter_details">Entrez les détails :</string>
+    <string name="log_title">Ajouter %1$s</string>
+
+    <!-- Input Labels -->
+    <string name="label_feeding">Quantité (ex: 120ml, Sein gauche)</string>
+    <string name="label_sleep">Durée (ex: 1h 30m)</string>
+    <string name="label_diaper">État (ex: Mouillée, Sale)</string>
+    <string name="label_growth">Mesure (ex: 70cm, 5kg)</string>
+
+    <!-- Growth Screen -->
+    <string name="growth_history">Historique Croissance</string>
+    <string name="tab_height">Taille (cm)</string>
+    <string name="tab_weight">Poids (kg)</string>
+    <string name="chart_progress">Progression %1$s</string>
+    <string name="history_section">Historique</string>
+    <string name="measured_label">Mesuré le</string>
+    <string name="no_data_chart">Aucune donnée. Ajoutez des mesures !</string>
+    <string name="upgrade_premium">Passer Premium</string>
+    <string name="unlock_premium">Débloquer les graphiques</string>
+
+    <!-- Guide Screen -->
+    <string name="guide_title">Développement de Bébé</string>
+    <string name="milestones_title">Étapes Clés</string>
+    <string name="food_title">Alimentation</string>
+    <string name="vaccine_title">Vaccination</string>
+    <string name="month_label">Mois %1$d</string>
+
+    <string name="ms_2m">Sourit aux gens, tient sa tête</string>
+    <string name="food_2m">Lait maternel ou préparation uniquement</string>
+    <string name="vac_2m">Rotavirus, DTCa, Hib, Pneu-C-13, Polio</string>
+
+    <string name="ms_6m">S\'assoit sans soutien, se retourne</string>
+    <string name="food_6m">Introduction purées légumes/fruits</string>
+    <string name="vac_6m">Hépatite B, DTCa, Polio</string>
+
+    <string name="ms_12m">Commence à marcher, dit \'maman/papa\'</string>
+    <string name="food_12m">Solides, lait de vache, miel autorisé</string>
+    <string name="vac_12m">RRO (Rougeole), Varicelle, Hépatite A</string>
+</resources>

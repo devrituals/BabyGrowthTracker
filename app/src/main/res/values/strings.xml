@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">BabyGrowthTracker</string>
+    <string name="default_web_client_id" translatable="false">YOUR_CLIENT_ID</string>
+
+    <!-- Profile Screen -->
+    <string name="setup_profile_title">Setup Baby Profile</string>
+    <string name="label_baby_name">Baby\'s Name</string>
+    <string name="label_birth_weight">Birth Weight (e.g. 3.5kg)</string>
+    <string name="gender_boy">Boy</string>
+    <string name="gender_girl">Girl</string>
+    <string name="btn_start_tracking">Start Tracking</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Track Everything</string>
+    <string name="onboarding_desc_1">Log feedings, sleep, diapers, and growth with just one tap.</string>
+    <string name="onboarding_title_2">Visualize Growth</string>
+    <string name="onboarding_desc_2">See your baby\'s progress clearly with beautiful, easy-to-read charts.</string>
+    <string name="onboarding_title_3">Sync with Partner</string>
+    <string name="onboarding_desc_3">Mom and Dad stay on the same page with real-time cloud sync.</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_get_started">Get Started</string>
+
+    <!-- Auth Screen -->
+    <string name="auth_welcome">Welcome Parents!</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="btn_signin">Sign In</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="text_or"> OR </string>
+    <string name="btn_google">Sign in with Google</string>
+    <string name="btn_guest">Continue as Guest</string>
+    <string name="toast_google_fail">Google Sign-In failed: %1$s</string>
+    <string name="toast_signin_success">Sign-In Successful!</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_growth">Growth</string>
+    <string name="nav_guide">Health Guide</string>
+
+    <!-- Dashboard -->
+    <string name="greeting">Hello,</string>
+    <string name="charts_btn">Charts</string>
+    <string name="last_feed">Last Feed</string>
+    <string name="last_sleep">Last Sleep</string>
+    <string name="diapers">Diapers</string>
+    <string name="diapers_today">%1$d today</string>
+    <string name="recent_activity">Recent Activity</string>
+    <string name="empty_state">No activities yet today</string>
+
+    <!-- Log Types -->
+    <string name="log_feeding">Feeding</string>
+    <string name="log_sleep">Sleep</string>
+    <string name="log_diaper">Diaper</string>
+    <string name="log_growth">Growth</string>
+
+    <!-- Input Dialogs & Bottom Sheet -->
+    <string name="new_activity">New Activity</string>
+    <string name="manual_entry">Manual Entry</string>
+    <string name="save_feeding">Save Feeding</string>
+    <string name="save_sleep">Save Sleep</string>
+    <string name="save_entry">Save Entry</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_details">Enter details below:</string>
+    <string name="log_title">Log %1$s</string> <!-- e.g. Log Feeding -->
+
+    <!-- Input Labels -->
+    <string name="label_feeding">Amount (e.g., 120ml, Left)</string>
+    <string name="label_sleep">Duration (e.g., 1h 30m)</string>
+    <string name="label_diaper">Status (e.g., Wet, Dirty)</string>
+    <string name="label_growth">Measurement (e.g., 70cm)</string>
+
+    <!-- Growth Screen -->
+    <string name="growth_history">Growth History</string>
+    <string name="tab_height">Height (cm)</string>
+    <string name="tab_weight">Weight (kg)</string>
+    <string name="chart_progress">%1$s Progress</string>
+    <string name="history_section">History</string>
+    <string name="measured_label">Measured</string>
+    <string name="no_data_chart">No data yet. Add some logs!</string>
+    <string name="upgrade_premium">Upgrade Now</string>
+    <string name="unlock_premium">Unlock Premium Charts</string>
+
+    <!-- Guide Screen -->
+    <string name="guide_title">Baby\'s Development</string>
+    <string name="milestones_title">Milestones</string>
+    <string name="food_title">Nutrition</string>
+    <string name="vaccine_title">Vaccines</string>
+    <string name="month_label">Month %1$d</string>
+
+    <!-- Guide Content (Existing) -->
+    <string name="ms_2m">Smiles at people, holds head up</string>
+    <string name="food_2m">Breast milk or formula only</string>
+    <string name="vac_2m">Rotavirus, DTaP, Hib, PCV13, IPV</string>
+    <string name="ms_6m">Sits without support, rolls over</string>
+    <string name="food_6m">Introduce pureed veggies and fruits</string>
+    <string name="vac_6m">Hepatitis B, DTaP, PCV13, Polio</string>
+    <string name="ms_12m">Starts walking, says \'mama/dada\'</string>
+    <string name="food_12m">Solids, cow\'s milk, honey allowed</string>
+    <string name="vac_12m">MMR, Varicella, Hepatitis A</string>
+</resources>

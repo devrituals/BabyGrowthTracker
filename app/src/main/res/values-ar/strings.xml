@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">تتبع نمو الطفل</string>
+
+    <string name="nav_dashboard">الرئيسية</string>
+    <string name="nav_growth">النمو</string>
+    <string name="nav_guide">دليل الصحة</string>
+
+    <!-- Profile Screen -->
+    <string name="setup_profile_title">إعداد ملف الطفل</string>
+    <string name="label_baby_name">اسم الطفل</string>
+    <string name="label_birth_weight">الوزن عند الولادة (مثلاً 3.5 كجم)</string>
+    <string name="gender_boy">ولد</string>
+    <string name="gender_girl">بنت</string>
+    <string name="btn_start_tracking">بدء التتبع</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">تتبع كل شيء</string>
+    <string name="onboarding_desc_1">سجل الرضاعة، النوم، الحفاضات والنمو بلمسة واحدة.</string>
+    <string name="onboarding_title_2">راقب النمو</string>
+    <string name="onboarding_desc_2">شاهد تقدم طفلك بوضوح من خلال رسوم بيانية جميلة.</string>
+    <string name="onboarding_title_3">مزامنة مع الشريك</string>
+    <string name="onboarding_desc_3">شارك البيانات مع الطرف الآخر لحظة بلحظة عبر السحابة.</string>
+    <string name="btn_next">التالي</string>
+    <string name="btn_get_started">ابدأ الآن</string>
+
+    <!-- Auth Screen -->
+    <string name="auth_welcome">أهلاً بالوالدين!</string>
+    <string name="label_email">البريد الإلكتروني</string>
+    <string name="label_password">كلمة المرور</string>
+    <string name="btn_signin">تسجيل الدخول</string>
+    <string name="btn_signup">إنشاء حساب</string>
+    <string name="text_or"> أو </string>
+    <string name="btn_google">الدخول باستخدام Google</string>
+    <string name="btn_guest">المتابعة كضيف</string>
+    <string name="toast_google_fail">فشل الدخول بـ Google: %1$s</string>
+    <string name="toast_signin_success">تم تسجيل الدخول بنجاح!</string>
+
+    <!-- Dashboard -->
+    <string name="greeting">مرحبًا،</string>
+    <string name="charts_btn">رسوم بيانية</string>
+    <string name="last_feed">آخر رضاعة</string>
+    <string name="last_sleep">آخر نوم</string>
+    <string name="diapers">حفاضات</string>
+    <string name="diapers_today">%1$d اليوم</string>
+    <string name="recent_activity">النشاط الأخير</string>
+    <string name="empty_state">لا توجد أنشطة اليوم</string>
+
+    <!-- Log Types -->
+    <string name="log_feeding">رضاعة</string>
+    <string name="log_sleep">نوم</string>
+    <string name="log_diaper">حفاضة</string>
+    <string name="log_growth">نمو</string>
+
+    <!-- Input Dialogs -->
+    <string name="new_activity">نشاط جديد</string>
+    <string name="manual_entry">إدخال يدوي</string>
+    <string name="save_feeding">حفظ الرضاعة</string>
+    <string name="save_sleep">حفظ النوم</string>
+    <string name="save_entry">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="enter_details">أدخل التفاصيل:</string>
+    <string name="log_title">سجل %1$s</string>
+
+    <string name="label_feeding">الكمية (مثلاً 120 مل)</string>
+    <string name="label_sleep">المدة (مثلاً 1 ساعة)</string>
+    <string name="label_diaper">الحالة (مبللة، متسخة)</string>
+    <string name="label_growth">القياس (مثلاً 70 سم، 5 كجم)</string>
+
+    <!-- Growth Screen -->
+    <string name="growth_history">سجل النمو</string>
+    <string name="tab_height">الطول (سم)</string>
+    <string name="tab_weight">الوزن (كجم)</string>
+    <string name="chart_progress">تطور %1$s</string>
+    <string name="history_section">السجل</string>
+    <string name="measured_label">تاريخ القياس</string>
+    <string name="no_data_chart">لا توجد بيانات. أضف سجلات!</string>
+    <string name="upgrade_premium">شراء النسخة الكاملة</string>
+    <string name="unlock_premium">فتح الرسوم البيانية</string>
+
+    <!-- Guide Content -->
+    <string name="guide_title">تطور الطفل</string>
+    <string name="milestones_title">مراحل النمو</string>
+    <string name="food_title">تغذية</string>
+    <string name="vaccine_title">تطعيمات</string>
+    <string name="month_label">الشهر %1$d</string>
+
+    <string name="ms_2m">يبتسم للناس، يرفع رأسه</string>
+    <string name="food_2m">حليب الأم أو الصناعي فقط</string>
+    <string name="vac_2m">الروتا، الثلاثي البكتيري، شلل الأطفال</string>
+    <string name="ms_6m">يجلس بدون دعم، يتقلب</string>
+    <string name="food_6m">إدخال الخضار والفواكه المهروسة</string>
+    <string name="vac_6m">التهاب الكبد ب، الثلاثي البكتيري</string>
+    <string name="ms_12m">يبدأ المشي، يقول ماما/بابا</string>
+    <string name="food_12m">طعام صلب، حليب بقري، عسل</string>
+    <string name="vac_12m">الحصبة، الجدري المائي، التهاب الكبد أ</string>
+</resources>
