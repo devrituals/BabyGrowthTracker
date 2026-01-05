@@ -40,8 +40,6 @@ Le projet suit les principes de la **Clean Architecture** :
 
 ## 📸 Démonstration
 
-*(Ajoutez ici vos captures d'écran - voir dossier /screenshots)*
-
 | Dashboard | Graphiques | Guide Santé | Profil |
 |:---:|:---:|:---:|:---:|
 | ![Dashboard](screenshots/dashboard.png) | ![Charts](screenshots/charts.png) | ![Guide](screenshots/guide.png) | ![Profile](screenshots/profile.png) |
@@ -50,7 +48,7 @@ Le projet suit les principes de la **Clean Architecture** :
 
 1.  Cloner le dépôt :
     ```bash
-    git clone https://github.com/VOTRE_NOM_UTILISATEUR/BabyGrowthTracker.git
+    git clone https://github.com/devrituals/BabyGrowthTracker.git
     ```
 2.  Ouvrir le projet dans **Android Studio Ladybug (ou version plus récente)**.
 3.  Synchroniser les fichiers Gradle.
